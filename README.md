@@ -5,7 +5,7 @@ This project includes detailed **test cases**, **bug reports**, **SQL validation
 
 ##  Project Files  
 
-- [LOGIN_MODULE_SCENARIOS.docx](./LOGIN_MODULE_SCENARIOS.docx) → Complete documentation of test scenarios.  
+- [LOGIN_MODULE_SCENARIOS.docx](./[LOGIN_MODULE_SCENARIOS.docx)](https://github.com/danavj200315-web/Ecommerce-Login-Testing/blob/main/LOGIN%20MODULE%20SCENARIOS.docx) → Complete documentation of test scenarios.  
 - [Login_Module_TestCases.xlsx](./Login_Module_TestCases.xlsx) → Detailed test cases for login functionality.  
 - [Login_Module_BugReport.xlsx](./Login_Module_BugReport.xlsx) → Report of identified bugs with severity & priority.  
 - [Login_Module_SQL_TestCases.xlsx](./Login_Module_SQL_TestCases.xlsx) → SQL queries to validate login-related database fields.  
